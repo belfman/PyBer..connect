@@ -1,6 +1,7 @@
-# PyBer..connect
-PyBer .. connect to your world
+![PyBer_title](C:\Users\Beau\Desktop\PyBer_title.PNG)![PyBer_bubble](C:\Users\Beau\Desktop\Practice\MatPlotLib\PyBer..connect\images\PyBer_bubble.png)
 
-connecting urban, suburban, and rural city types
+![PyBer_fares_pie](C:\Users\Beau\Desktop\Practice\MatPlotLib\PyBer..connect\images\PyBer_fares_pie.png)
 
-What's your city type?
+![PyBer_drivers_pie](C:\Users\Beau\Desktop\Practice\MatPlotLib\PyBer..connect\images\PyBer_drivers_pie.png)
+
+![PyBer_rides_pie](C:\Users\Beau\Desktop\Practice\MatPlotLib\PyBer..connect\images\PyBer_rides_pie.png)
