@@ -10,6 +10,7 @@
   * rural
   
   I visualized data for Pyber using Python language via Jupyter Notebook, and the libraries Pandas and Matplotlib. Two datasets were read in from CSV files and merged together into a dataframe. Then categories were grouped using groupby, and several key metrics were found using sum, mean, and count. Matplotlib was then extensively used to create meaningful visuals to show the relevant information for PyBer to get an overview of how thier rideshare program was being used accross the three city types they serve. I reviewed the findings and provided my reccomendations for how the company could look to expand into under utalized regions. Here are those findings:
+  
 ![](https://raw.githubusercontent.com/belfman/PyBer..connect/master/images/PyBer_bubble.png "bubble-licious")
 
   # New Opportunities for Market Direction
